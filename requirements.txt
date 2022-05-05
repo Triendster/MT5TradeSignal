@@ -1,0 +1,4 @@
+matplotlib==3.4.2
+MetaTrader5==5.0.37
+pandas==1.4.2
+Telethon==1.22.0
